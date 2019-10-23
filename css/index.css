@@ -1,6 +1,24 @@
-#header1{
+#header_title{
     background-color: cornflowerblue;
     width: 100%;
     text-align: center;
     top: 0;
+    height: 500px;
+}
+/*大标题文字格式*/
+.title_text{
+    margin-top: -53px;
+    position: relative;
+    top: 35%;
+    font-size: 80px;
+    font-weight: bolder;
+    color: white;
+}
+/*大标题下面的小字*/
+.title_textExplanation{
+    margin-top: -10px;
+    position: relative;
+    top: 50%;
+    font-size: 15px;
+    color: white;
 }
