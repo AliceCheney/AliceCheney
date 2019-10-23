@@ -9,7 +9,7 @@
 .title_text{
     margin-top: -53px;
     position: relative;
-    top: 35%;
+    top: 40%;
     font-size: 80px;
     font-weight: bolder;
     color: white;
@@ -18,7 +18,7 @@
 .title_textExplanation{
     margin-top: -10px;
     position: relative;
-    top: 50%;
-    font-size: 15px;
+    top: 30%;
+    font-size: 25px;
     color: white;
 }
