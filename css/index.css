@@ -13,7 +13,6 @@
     font-size: 80px;
     font-weight: bolder;
     color: white;
-    font-family: 方正粗圆_GBK;
 }
 /*大标题下面的小字*/
 .title_textExplanation{
@@ -22,13 +21,10 @@
     top: 30%;
     font-size: 25px;
     color: white;
-    font-family: 方正粗圆_GBK;
 }
 .content_text{
     position: relative;
     top: 10px;
     text-align: center;
-    font-size: 15px;
-    font-family: 方正粗圆简体;
-    color: darkolivegreen;
+    font-size: 20px;
 }
